@@ -4,7 +4,7 @@
     "hyperapp": "1.0.1"
   },
   "devDependencies": {
-    "node-sass": "4.7.2",
+    "node-sass": "9.0.0",
     "typescript": "2.6.2"
   },
   "name": "hyperapp-ts-sample",
